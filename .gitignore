@@ -1,0 +1,8 @@
+# Configuration/Secrets
+config.js
+
+# Yarn
+yarn.lock
+
+# Modules
+node_modules/

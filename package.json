@@ -1,0 +1,12 @@
+{
+	"name": "api-etouches-pull-registrants",
+	"version": "1.0.0",
+	"description": "A NodeJS application for pulling registrants from the eTouches system.",
+	"main": "index.js",
+	"repository": "https://github.com/C-Rodg/eTouches-Pull-Registrants.git",
+	"author": "C-Rodg",
+	"license": "MIT",
+	"dependencies": {
+		"axios": "^0.16.2"
+	}
+}
